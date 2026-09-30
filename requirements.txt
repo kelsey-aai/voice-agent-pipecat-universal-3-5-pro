@@ -1,3 +1,4 @@
-pipecat-ai[assemblyai,openai,cartesia,daily,silero]>=1.4.0
+pipecat-ai[assemblyai,openai,cartesia,daily,silero]>=1.9.0
 python-dotenv>=1.0
 loguru>=0.7
+requests>=2.31
